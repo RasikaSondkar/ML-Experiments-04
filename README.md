@@ -32,7 +32,7 @@ This experiment demonstrates the implementation of Simple Linear Regression, inc
 - Scikit-learn
 
 ## Author
-Prathamesh Patil
+Rasika Sondkar.
 ![ML_Experiment](Package_Prediction.png)
 
 # Multiple Linear Regression (Exp_No.3)
@@ -51,7 +51,7 @@ This experiment demonstrates the implementation of Multiple Linear Regression us
 - Scikit-learn
 
 ## Author
-Prathamesh Patil
+Rasika Sondkar.
 ![ML_Experiment](Package_Prediction_MLR.png)
 
 # Logistic_Regression (Exp_No.4)
